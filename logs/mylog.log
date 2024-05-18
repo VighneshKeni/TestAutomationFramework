@@ -7,3 +7,12 @@
 23:32:08.648 [main] INFO  TestAutomationFrameWork - Successfully Entered the All user Details
 23:32:11.210 [main] INFO  TestAutomationFrameWork - Successfully  click on the submit button.
 23:32:11.238 [main] INFO  TestAutomationFrameWork - Successfully Verify the User Name
+23:48:36.102 [main] INFO  TestAutomationFrameWork - Successfully Verify the index page title.
+23:48:37.280 [main] INFO  TestAutomationFrameWork - Successfully clicked on the signIn.
+23:48:37.293 [main] INFO  TestAutomationFrameWork - Successfully Verify the login page title.
+23:48:37.512 [main] INFO  TestAutomationFrameWork - Successfully Entered the Email Id.
+23:48:37.649 [main] INFO  TestAutomationFrameWork - Successfully Clicked On The Submit Button.
+23:48:37.706 [main] INFO  TestAutomationFrameWork - Successfully Verify the Register user page title.
+23:48:40.171 [main] INFO  TestAutomationFrameWork - Successfully Entered the All user Details
+23:48:43.557 [main] INFO  TestAutomationFrameWork - Successfully  click on the submit button.
+23:48:43.607 [main] INFO  TestAutomationFrameWork - Successfully Verify the User Name

@@ -16,7 +16,6 @@
 			<version>4.20.0</version>
 		</dependency>
 
-
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 		<dependency>
 			<groupId>org.testng</groupId>
@@ -24,6 +23,7 @@
 			<version>7.9.0</version>
 			<scope>test</scope>
 		</dependency>
+
 
 		<!-- https://mvnrepository.com/artifact/com.github.sdrss/reportng -->
 		<dependency>
